@@ -79,7 +79,7 @@
     "ngx-editor": "^3.3.0",
     "ngx-perfect-scrollbar": "^5.0.1",
     "ngx-slick": "^0.2.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "nouislider": "9.2.0",
     "purifycss-webpack": "^0.7.0",
     "recaptcha-blackgeeks": "^1.1.16",
