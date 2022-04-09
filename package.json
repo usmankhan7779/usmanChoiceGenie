@@ -64,7 +64,7 @@
     "jvectormap": "2.0.4",
     "jwt-decode": "^2.2.0",
     "mdbootstrap": "^4.4.4",
-    "moment": "2.18.1",
+    "moment": "2.29.2",
     "moment-timezone": "0.4.0",
     "neutron-star-rating": "^0.1.0",
     "ng-recaptcha": "^3.0.5",
