@@ -65,7 +65,7 @@
     "jwt-decode": "^2.2.0",
     "mdbootstrap": "^4.4.4",
     "moment": "2.18.1",
-    "moment-timezone": "0.4.0",
+    "moment-timezone": "0.5.35",
     "neutron-star-rating": "^0.1.0",
     "ng-recaptcha": "^3.0.5",
     "ng-snotify": "^4.3.1",
